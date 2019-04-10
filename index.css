@@ -8,16 +8,16 @@
 .product-wrapper .title {
   display: block;
   text-align: center;
-  font-size: 40rpx;
+  font-size: 20px;
   font-weight: bold;
   line-height: 1.4;
-  margin-bottom: 14rpx;
+  margin-bottom: 7px;
 }
 
 .product-wrapper .des {
-  padding: 20rpx 50rpx;
-  font-size: 32rpx;
-  text-indent: 30rpx;
+  padding: 10px 25px;
+  font-size: 16px;
+  text-indent: 15px;
   text-align: justify;
   line-height: 1.6;
 }
@@ -25,115 +25,115 @@
 .product-wrapper .sub-title {
   display: block;
   text-align: center;
-  width: 240rpx;
-  margin: 40rpx auto;
-  font-size: 48rpx;
+  width: 120px;
+  margin: 20px auto;
+  font-size: 24px;
   font-weight: bold;
-  letter-spacing: 20rpx;
+  letter-spacing: 10px;
   color: rgb(63, 62, 63);
   border: 1px solid rgb(63, 62, 63);
 }
 
 .product-wrapper .image {
   display: block;
-  width: 500rpx;
-  height: 500rpx;
+  width: 250px;
+  height: 250px;
   overflow: hidden;
-  border-radius: 500rpx;
-  margin: 0 auto 40rpx;
+  border-radius: 250px;
+  margin: 0 auto 20px;
 }
 
 .product-wrapper .rect {
   width: 100%;
-  border-radius: 0rpx !important;
+  border-radius: 0px !important;
 }
 
 .product-wrapper .rect:first-child {
-  margin-top: 30rpx;
+  margin-top: 15px;
 }
 
 .product-list {
-  margin-top: 45rpx;
-  padding: 20rpx 50rpx;
+  margin-top: 20px;
+  padding: 10px 25px;
   text-align: center;
 }
 
 .product-list .summary {
   border-radius: 5px;
   background-color: #e0e0e0;
-  padding: 50rpx 80rpx;
+  padding: 25px 40px;
 }
 
 .product-list .summary .summary-top {
   background-color: rgb(172, 29, 16);
-  border-radius: 10rpx;
+  border-radius: 10px;
   color: white;
-  width: 380rpx;
-  margin: 0 auto 30rpx;
-  padding: 15rpx 0;
+  width: 190px;
+  margin: 0 auto 15px;
+  padding: 8px 0;
 }
 
 .product-list .summary .summary-top .text {
-  font-size: 48rpx;
+  font-size: 24px;
   display: block;
 }
 
 .product-list .summary .summary-bottom-title {
   display: block;
-  font-size: 40rpx;
+  font-size: 20px;
   font-weight: bold;
 }
 
 .product-list .summary .summary-bottom-content {
   display: block;
-  font-size: 36rpx;
+  font-size: 18px;
 }
 
 .product-list .item,
 .product-list .contact {
-  margin-top: 40rpx;
+  margin-top: 20px;
 }
 
 .product-list .item .title {
   display: block;
   color: rgb(171, 25, 66);
-  font-size: 40rpx;
+  font-size: 20px;
   font-weight: bold;
-  margin-bottom: 20rpx;
+  margin-bottom: 10px;
 }
 
 .product-list .item .sub-title {
   display: block;
-  font-size: 40rpx;
+  font-size: 20px;
   font-weight: bold;
   color: rgb(51, 51, 51);
-  margin-bottom: 5rpx;
+  margin-bottom: 5px;
 }
 
 .product-list .item .image {
   display: block;
   width: 100%;
-  margin-bottom: 20rpx;
+  margin-bottom: 10px;
 }
 
 .product-list .item .price {
   display: block;
-  font-size: 48rpx;
+  font-size: 24px;
   color: rgb(51, 51, 51);
 }
 
 .product-list .item .spe {
-  margin-top: 30rpx;
+  margin-top: 15px;
 }
 
 .product-list .contact {
-  font-size: 32rpx;
+  font-size: 16px;
   line-height: 1.5;
   text-align: left;
 }
 
 .product-list .contact .info {
-  margin-top: 20rpx;
+  margin-top: 20px;
   font-weight: bold;
   color: #333;
 }
@@ -145,14 +145,14 @@
 .product-list .contact .qrcode {
   display: block;
   margin: 0 auto;
-  width: 400rpx;
-  height: 400rpx;
-  margin-top: 40rpx;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
 }
 
 .split-line {
   display: block;
   height: 1px;
   border-bottom: 1px solid rgb(63, 62, 63);
-  margin-top: 30rpx;
+  margin-top: 30px;
 }
