@@ -5,6 +5,12 @@
   justify-content: flex-start;
 }
 
+.container {
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
 .product-wrapper .title {
   display: block;
   text-align: center;
@@ -36,15 +42,16 @@
 
 .product-wrapper .image {
   display: block;
+  overflow: hidden;
   width: 250px;
   height: 250px;
-  overflow: hidden;
   border-radius: 250px;
   margin: 0 auto 20px;
 }
 
 .product-wrapper .rect {
   width: 100%;
+  height: auto;
   border-radius: 0px !important;
 }
 
